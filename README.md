@@ -66,3 +66,11 @@ The repository structure and metadata templates are open-source.
 
 All NFT media assets, descriptions, and branding are proprietary and protected
 intellectual property. Unauthorized use is strictly prohibited.
+
+## Deployed contracts
+
+NFT N1 (Community NFT) - [EQA-UadRaj92aXmlfdSyD4PWT97F3CS6Pu4NRUYYqSWhfEAj](https://tonviewer.com/EQA-UadRaj92aXmlfdSyD4PWT97F3CS6Pu4NRUYYqSWhfEAj)
+
+NFT N2 (Investment NFT) - [EQCX0mnZIv29Z6oHOtqg2naHrkGO3tuM7paSi8mE8zouSbey](https://tonviewer.com/EQCX0mnZIv29Z6oHOtqg2naHrkGO3tuM7paSi8mE8zouSbey)
+
+NFT N3 (Premium Investment NFT) - [EQAqfm8_xNEN5DAqXvCCCketUF0EXp4O0WCRHoUQH2g76smg](https://tonviewer.com/EQAqfm8_xNEN5DAqXvCCCketUF0EXp4O0WCRHoUQH2g76smg)
